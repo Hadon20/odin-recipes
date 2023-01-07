@@ -1,9 +1,23 @@
 * {
+    font-family: Verdana, sans-serif;
     text-align: center;
+    display: ;
 }
 
+.title.h1 {
+    background-color: rgb(44, 138, 182);
+}
 
+.link {
+    color: rgb(48, 184, 150);
+}
 
-.title {
-    
+ul {
+    display: inline-block;
+
+}
+
+li {
+    text-align: center;
+
 }
