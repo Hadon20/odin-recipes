@@ -1,0 +1,17 @@
+body {
+    background-color: #D9DCD6;
+    height: 100vw;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #16425B;
+}
+
+.headings.main {
+    color: #2F6690;
+    font-size: 50px;
+}
+
+.headings.sub {
+    color: #3A7CA5;
+}
